@@ -1,0 +1,27 @@
+@@font-face {
+  font-family: 'Work Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+
+main {
+
+}
+
+
+nav {
+
+  font-family: 'Lato';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+
+
+}
+
+.map {
+
+  max-width: 100vh;
+
+}
